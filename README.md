@@ -27,9 +27,16 @@ Automated Finance team at CFGI.
 - [cDiscourse](https://github.com/kyleruff1/cDiscourse): structured debate platform
   built end to end with Claude Code multi-agent pipelines (designer, implementer,
   and reviewer roles with automated review gates).
+- [punchCraft / Puncheokie](https://github.com/kyleruff1/punchCraft-Puncheokie):
+  Android-first Expo app reviving FightCamp v1 BLE punch trackers, with custom
+  Bluetooth LE integration powering Velocity Lab, punchCraft, and Puncheokie
+  training modes.
+- [Digital Oil Sticker](https://github.com/kyleruff1/digital-oil-sticker):
+  offline-first oil-change record and reminder built with Elixir, Phoenix
+  LiveView, and SQLite.
 - Mastery Study PWA: offline-first exam trainer with a deterministic retry-tail
   mastery engine and FSRS spaced repetition.
-- Most of the portfolio is private client and production work; ask me about it.
+- Much of the portfolio is private client and production work; ask me about it.
 
 ## Certifications
 
